@@ -40,4 +40,4 @@ This entire process integrates these technologies to leverage the strengths of e
 - **Helm** simplifies the management of our application deployment on Kubernetes, providing an easy way to deploy, scale, and manage applications.
 - **Kubernetes/EKS** offers robust, scalable management of containerized applications, handling complex tasks like load-balancing, scaling, and system resiliency natively.
 
-This streamlined workflow provides a scalable, maintainable, and efficient way for us to deploy and manage our "stooore" application in the AWS cloud environment.
+This streamlined workflow provides a scalable, maintainable, and efficient way for us to deploy and manage our "stooore" application in the AWS cloud environment. 
